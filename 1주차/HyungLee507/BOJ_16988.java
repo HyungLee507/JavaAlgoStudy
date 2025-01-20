@@ -1,4 +1,4 @@
-package backjoon.study.week1;
+package backjoon.study.week1.HyungLee507;
 
 import java.io.BufferedReader;
 import java.io.IOException;
